@@ -1,6 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 # 💫 About Me:
 I’m a visual artist currently working as a graphic designer. I specialize in bringing creative ideas to life through design, and I’m also learning Python to expand my skill set and turn those ideas into interactive and dynamic realities.
-
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/avishekneupane) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tech.everest) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avishekneupane) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/roverabhi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RoverAbhi) 

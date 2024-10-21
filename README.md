@@ -1,4 +1,6 @@
-[![MasterHead]()](http://abhishekneupane.com.np/)
+![Header](./prof.gif)
+
+
 
 # 💫 About Me:<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 I’m a visual artist currently working as a graphic designer. I specialize in bringing creative ideas to life through design, and I’m also learning Python to expand my skill set and turn those ideas into interactive and dynamic realities.
